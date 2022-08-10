@@ -1,0 +1,6 @@
+2022/08/08-20:18:43.755 5e0 Creating DB C:\Users\write\OneDrive\Desktop\small-programs\web scraping projects\profileUpwork\Default\IndexedDB\https_www.fiverr.com_0.indexeddb.leveldb since it was missing.
+2022/08/08-20:18:43.762 5e0 Reusing MANIFEST C:\Users\write\OneDrive\Desktop\small-programs\web scraping projects\profileUpwork\Default\IndexedDB\https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/08-20:18:49.577 9f0 Level-0 table #5: started
+2022/08/08-20:18:49.581 9f0 Level-0 table #5: 539 bytes OK
+2022/08/08-20:18:49.583 9f0 Delete type=0 #3
+2022/08/08-20:18:49.583 9f0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
