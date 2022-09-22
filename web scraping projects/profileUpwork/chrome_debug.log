@@ -1,19 +1,35 @@
-[10400:9836:0810/134908.604:INFO:CONSOLE(1)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/FindWorkHomeNuxt/vendors~top-nav-fECTE.bcc24804e04a86ee3860.js (1)
-[10400:9836:0810/134908.702:INFO:CONSOLE(1)] "SUIT2 Loader: loading shared container [prod]", source:  (1)
-[10400:9836:0810/134908.969:INFO:CONSOLE(1)] "SUIT2 Container: asset loaded [prod]", source:  (1)
-[10400:9836:0810/134909.157:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
-[10400:9836:0810/134912.915:INFO:CONSOLE(1)] "Wed Aug 10 2022 13:49:12 GMT+0300 (Eastern European Summer Time) Atmosphere: beforeunload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
-[10400:9836:0810/134914.308:INFO:CONSOLE(1)] "Wed Aug 10 2022 13:49:14 GMT+0300 (Eastern European Summer Time) Atmosphere: unload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
-[10400:9836:0810/134914.471:INFO:CONSOLE(2)] "SUIT2: loading asset with nuxt-core", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
-[10400:9836:0810/134914.550:INFO:CONSOLE(2)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
-[10400:9836:0810/134914.631:INFO:CONSOLE(2)] "SUIT2: asset loaded", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
-[10400:9836:0810/134915.026:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
-[10400:20116:0810/134929.027:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:20116:0810/134929.028:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:9836:0810/134935.503:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:892:0810/134935.564:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:20172:0810/134935.564:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:11000:0810/134935.569:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:19920:0810/134955.490:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:18336:0810/135005.608:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
-[10400:18088:0810/135405.566:ERROR:persistent_memory_allocator.cc(849)] Corruption detected in shared-memory segment.
+[4876:13160:0811/174933.244:ERROR:device_event_log_impl.cc(214)] [17:49:33.244] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[4876:13160:0811/174934.613:INFO:CONSOLE(1)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/FindWorkHomeNuxt/vendors~top-nav-fECTE.bcc24804e04a86ee3860.js (1)
+[4876:13160:0811/174934.705:INFO:CONSOLE(1)] "SUIT2 Loader: loading shared container [prod]", source:  (1)
+[4876:13160:0811/174934.966:INFO:CONSOLE(1)] "SUIT2 Container: asset loaded [prod]", source:  (1)
+[4876:13160:0811/174935.161:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
+[4876:13160:0811/174935.577:INFO:CONSOLE(1)] "Thu Aug 11 2022 17:49:35 GMT+0300 (Eastern European Summer Time) Atmosphere: beforeunload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[4876:13160:0811/174937.318:INFO:CONSOLE(1)] "Thu Aug 11 2022 17:49:37 GMT+0300 (Eastern European Summer Time) Atmosphere: unload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[4876:13160:0811/174937.493:INFO:CONSOLE(2)] "SUIT2: loading asset with nuxt-core", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.583:INFO:CONSOLE(2)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.677:INFO:CONSOLE(2)] "SUIT2: asset loaded", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.805:INFO:CONSOLE(2)] "[object Object]", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.838:INFO:CONSOLE(2)] "[object Object]", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.949:INFO:CONSOLE(2)] "TypeError: Cannot read properties of undefined (reading 'options')", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.993:INFO:CONSOLE(2)] "Uncaught (in promise) Error: {"uuid":"d0a9cd80-1984-11ed-8473-531f97b2eab6","appId":"PXSs13U803","firstPartyEnabled":true,"hostUrl":"\/Ss13U803\/xhr","vid":"6810e853-16f0-11ed-bfb8-644842764f74","jsClientSrc":"\/Ss13U803\/init.js","blockScript":"\/Ss13U803\/captcha\/PXSs13U803\/captcha.js?a=captcha&m=0&u=d0a9cd80-1984-11ed-8473-531f97b2eab6&v=6810e853-16f0-11ed-bfb8-644842764f74"}
+", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174937.993:INFO:CONSOLE(2)] "Uncaught (in promise) Error: {"uuid":"d0a9cd80-1984-11ed-8473-531f97b2eab6","appId":"PXSs13U803","firstPartyEnabled":true,"hostUrl":"\/Ss13U803\/xhr","vid":"6810e853-16f0-11ed-bfb8-644842764f74","jsClientSrc":"\/Ss13U803\/init.js","blockScript":"\/Ss13U803\/captcha\/PXSs13U803\/captcha.js?a=captcha&m=0&u=d0a9cd80-1984-11ed-8473-531f97b2eab6&v=6810e853-16f0-11ed-bfb8-644842764f74"}
+", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174938.025:INFO:CONSOLE(2)] "Uncaught (in promise) Error: {"uuid":"d27a6ed0-1984-11ed-a67f-9fe9a09e9df7","appId":"PXSs13U803","firstPartyEnabled":true,"hostUrl":"\/Ss13U803\/xhr","vid":"6810e853-16f0-11ed-bfb8-644842764f74","jsClientSrc":"\/Ss13U803\/init.js","blockScript":"\/Ss13U803\/captcha\/PXSs13U803\/captcha.js?a=captcha&m=0&u=d27a6ed0-1984-11ed-a67f-9fe9a09e9df7&v=6810e853-16f0-11ed-bfb8-644842764f74"}
+", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174938.049:INFO:CONSOLE(2)] "Uncaught (in promise) Error: {"uuid":"d27a6ed0-1984-11ed-a67f-9fe9a09e9df7","appId":"PXSs13U803","firstPartyEnabled":true,"hostUrl":"\/Ss13U803\/xhr","vid":"6810e853-16f0-11ed-bfb8-644842764f74","jsClientSrc":"\/Ss13U803\/init.js","blockScript":"\/Ss13U803\/captcha\/PXSs13U803\/captcha.js?a=captcha&m=0&u=d27a6ed0-1984-11ed-a67f-9fe9a09e9df7&v=6810e853-16f0-11ed-bfb8-644842764f74"}
+", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174938.193:INFO:CONSOLE(2)] "Uncaught (in promise) Error: {"uuid":"d27a6ed0-1984-11ed-a67f-9fe9a09e9df7","appId":"PXSs13U803","firstPartyEnabled":true,"hostUrl":"\/Ss13U803\/xhr","vid":"6810e853-16f0-11ed-bfb8-644842764f74","jsClientSrc":"\/Ss13U803\/init.js","blockScript":"\/Ss13U803\/captcha\/PXSs13U803\/captcha.js?a=captcha&m=0&u=d27a6ed0-1984-11ed-a67f-9fe9a09e9df7&v=6810e853-16f0-11ed-bfb8-644842764f74"}
+", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/174939.206:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
+[4876:13160:0811/175023.360:INFO:CONSOLE(1)] "Thu Aug 11 2022 17:50:23 GMT+0300 (Eastern European Summer Time) Atmosphere: beforeunload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[4876:13160:0811/175023.658:INFO:CONSOLE(1)] "Thu Aug 11 2022 17:50:23 GMT+0300 (Eastern European Summer Time) Atmosphere: unload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[4876:13160:0811/175048.109:INFO:CONSOLE(2)] "SUIT2: loading asset with nuxt-core", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/175048.202:INFO:CONSOLE(2)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/175048.264:INFO:CONSOLE(2)] "SUIT2: asset loaded", source: https://www.upwork.com/static/assets/JobSearchNuxt/app.6bfd52c2ed5232b504c6.js (2)
+[4876:13160:0811/175048.744:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
+[4876:17048:0811/202018.467:WARNING:page_discarding_helper.cc(153)] Urgently discarding multiple pages with target (kb): 0
+[4876:15084:0811/210948.425:WARNING:page_discarding_helper.cc(153)] Urgently discarding multiple pages with target (kb): 0
+[4876:13160:0811/211935.722:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://trk.clinch.co/trk?cid=ufx03Y&dsid=ikf8WI&type=pageView&product=ecommerce&referrer=https%3A%2F%2Fwww.upwork.com%2Fnx%2Fjobs%2Fsearch%2F%3Fsort%3Drecency&version=3.4&a=1660229451758, status = 4, exit_code = 258
+[4876:13160:0811/211935.725:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://servedby.flashtalking.com/container/18442;121244;12954;iframe/?ftXRef=[%INSERT_TRANSACTION_ID_HERE%]&ftXValue=[%INSERT_TRANSACTION_VALUE_HERE%]&ftXType=[%INSERT_TRANSACTION_TYPE_HERE%]&ftXName=[%INSERT_TRANSACTION_NAME_HERE%]&ftXNumItems=[%INSERT_TRANSACTION_QUANTITY_HERE%]&ftXCurrency=[%INSERT_TRANSACTION_CURRENCY_HERE%]&U1=[%INSERT_U1_HERE%]&U2=[%INSERT_U2_HERE%]&U3=[%INSERT_U3_HERE%]&U4=[%INSERT_U4_HERE%]&U5=[%INSERT_U5_HERE%]&U6=[%INSERT_U6_HERE%]&U7=[%INSERT_U7_HERE%]&U8=[%INSERT_U8_HERE%]&U9=[%INSERT_U9_HERE%]&U10=[%INSERT_U10_HERE%]&U11=[%INSERT_U11_HERE%]&U12=[%INSERT_U12_HERE%]&U13=[%INSERT_U13_HERE%]&U14=[%INSERT_U14_HERE%]&U15=[%INSERT_U15_HERE%]&U16=[%INSERT_U16_HERE%]&U17=[%INSERT_U17_HERE%]&U18=[%INSERT_U18_HERE%]&U19=[%INSERT_U19_HERE%]&U20=[%INSERT_U20_HERE%]&ft_referrer=https%3A//www.upwork.com/nx/jobs/search/&ns=https%3A//www.upwork.com/nx/jobs/search/&cb=997614.0107522524, status = 4, exit_code = 258
+[4876:13160:0811/211935.876:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

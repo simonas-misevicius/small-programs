@@ -1,0 +1,15 @@
+[19436:16596:0816/171441.237:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[19436:8656:0816/171441.259:ERROR:disk_cache.cc(203)] Unable to create cache
+[19436:8656:0816/171441.259:ERROR:shader_disk_cache.cc(613)] Shader Cache Creation failed: -2
+[19436:8656:0816/171444.250:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[19436:8656:0816/171444.305:ERROR:device_event_log_impl.cc(214)] [17:14:44.305] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[19436:8656:0816/171451.345:INFO:CONSOLE(1)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/static/assets/FindWorkHomeNuxt/vendors~top-nav-fECTE.bcc24804e04a86ee3860.js (1)
+[19436:8656:0816/171451.449:INFO:CONSOLE(1)] "SUIT2 Loader: loading shared container [prod]", source:  (1)
+[19436:8656:0816/171451.786:INFO:CONSOLE(2)] "'state' should be a method that returns an object in store/todos.js", source: https://www.upwork.com/nx/wm/assets/app.d3433b18.js (2)
+[19436:8656:0816/171451.948:INFO:CONSOLE(1)] "Unknown Top Navigation method call: 'setTracker'", source: https://www.upwork.com/nx/wm/assets/layouts/default.7f35af2c.js (1)
+[19436:8656:0816/171452.028:INFO:CONSOLE(1)] "SUIT2 Loader: loading shared container [prod]", source:  (1)
+[19436:8656:0816/171452.181:INFO:CONSOLE(1)] "SUIT2 Container: asset loaded [prod]", source:  (1)
+[19436:8656:0816/171453.055:INFO:CONSOLE(1)] "CLINCH: clq() init ver 3.4", source: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js (1)
+[19436:8656:0816/171459.448:INFO:CONSOLE(1)] "Tue Aug 16 2022 17:14:59 GMT+0300 (Eastern European Summer Time) Atmosphere: beforeunload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[19436:8656:0816/171459.857:INFO:CONSOLE(1)] "Tue Aug 16 2022 17:14:59 GMT+0300 (Eastern European Summer Time) Atmosphere: unload event", source: https://assets.static-upwork.com/dash-api/1.2.3/dash-api.min.js (1)
+[19436:8656:0816/171641.597:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

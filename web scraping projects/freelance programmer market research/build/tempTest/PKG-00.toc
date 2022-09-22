@@ -1,0 +1,53 @@
+('C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+ 'projects\\freelance programmer market '
+ 'research\\build\\tempTest\\tempTest.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market '
+   'research\\build\\tempTest\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market '
+   'research\\build\\tempTest\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market '
+   'research\\build\\tempTest\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market '
+   'research\\build\\tempTest\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market '
+   'research\\build\\tempTest\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\write\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\write\\anaconda3\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('tempTest',
+   'C:\\Users\\write\\OneDrive\\Desktop\\small-programs\\web scraping '
+   'projects\\freelance programmer market research\\tempTest.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

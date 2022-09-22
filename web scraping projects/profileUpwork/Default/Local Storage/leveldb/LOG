@@ -1,3 +1,14 @@
-2022/08/10-13:49:05.622 3920 Reusing MANIFEST C:\Users\write\OneDrive\Desktop\small-programs\web scraping projects\profileUpwork\Default\Local Storage\leveldb/MANIFEST-000001
-2022/08/10-13:49:05.623 3920 Recovering log #29
-2022/08/10-13:49:05.624 3920 Reusing old log C:\Users\write\OneDrive\Desktop\small-programs\web scraping projects\profileUpwork\Default\Local Storage\leveldb/000029.log 
+2022/08/11-17:49:31.171 2778 Reusing MANIFEST C:\Users\write\OneDrive\Desktop\small-programs\web scraping projects\profileUpwork\Default\Local Storage\leveldb/MANIFEST-000001
+2022/08/11-17:49:31.172 2778 Recovering log #44
+2022/08/11-17:49:31.173 2778 Level-0 table #46: started
+2022/08/11-17:49:31.175 2778 Level-0 table #46: 24179 bytes OK
+2022/08/11-17:49:31.177 2778 Delete type=0 #44
+2022/08/11-17:49:31.178 3d00 Compacting 4@0 + 1@1 files
+2022/08/11-17:49:31.187 3d00 Generated table #48@0: 64 keys, 39313 bytes
+2022/08/11-17:49:31.187 3d00 Compacted 4@0 + 1@1 files => 39313 bytes
+2022/08/11-17:49:31.188 3d00 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/08/11-17:49:31.189 3d00 Delete type=2 #36
+2022/08/11-17:49:31.189 3d00 Delete type=2 #38
+2022/08/11-17:49:31.189 3d00 Delete type=2 #41
+2022/08/11-17:49:31.189 3d00 Delete type=2 #43
+2022/08/11-17:49:31.189 3d00 Delete type=2 #46

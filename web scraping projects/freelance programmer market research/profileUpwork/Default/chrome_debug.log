@@ -1,0 +1,24 @@
+[0816/142504.777:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0816/142504.871:INFO:CONSOLE(3)] "recaptchacompat disabled", source: https://cloudflare.hcaptcha.com/1/api.js?endpoint=https%3A%2F%2Fcloudflare.hcaptcha.com&assethost=https%3A%2F%2Fcf-assets.hcaptcha.com&imghost=https%3A%2F%2Fcf-imgs.hcaptcha.com&render=explicit&recaptchacompat=off&onload=_cf_chl_hload (3)
+[0816/142507.872:INFO:CONSOLE(0)] "[.WebGL-00004AD201C90D00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://cf-assets.hcaptcha.com/captcha/v1/1f7dc62/static/hcaptcha.html#frame=challenge&id=0yxk56rjcw4o&host=www.upwork.com&sentry=true&reportapi=https%3A%2F%2Faccounts.hcaptcha.com&recaptchacompat=off&custom=false&endpoint=https%3A%2F%2Fcloudflare.hcaptcha.com&hl=lt&assethost=https%3A%2F%2Fcf-assets.hcaptcha.com&imghost=https%3A%2F%2Fcf-imgs.hcaptcha.com&tplinks=on&sitekey=33f96e6a-38cd-421b-bb68-7806e1764460&theme=light (0)
+[0816/142507.873:INFO:CONSOLE(0)] "[.WebGL-00004AD201C91400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://cf-assets.hcaptcha.com/captcha/v1/1f7dc62/static/hcaptcha.html#frame=challenge&id=19hql2m9rus&host=www.upwork.com&sentry=true&reportapi=https%3A%2F%2Faccounts.hcaptcha.com&recaptchacompat=off&custom=false&endpoint=https%3A%2F%2Fcloudflare.hcaptcha.com&hl=lt&assethost=https%3A%2F%2Fcf-assets.hcaptcha.com&imghost=https%3A%2F%2Fcf-imgs.hcaptcha.com&tplinks=on&sitekey=33f96e6a-38cd-421b-bb68-7806e1764460&theme=light (0)
+[0817/000004.725:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0817/070746.310:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0817/235948.947:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0818/070017.881:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0819/004359.336:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0819/071102.218:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/014009.356:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/064044.281:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/131542.533:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/135837.086:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/194010.541:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0820/202248.026:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0821/004132.609:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0821/061222.301:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0821/153603.129:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0821/155946.264:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0821/222358.022:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0822/080100.134:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0822/235457.513:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0823/071819.221:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
